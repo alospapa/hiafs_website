@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=hiafs_website
+POSTGRES_USER=IvVRlQlQqiscHdxZJVKaKWwCJmmivsyX
+POSTGRES_PASSWORD=Bb5HeWsRZokchp66UdcABXJ6bhDFuDOIUqaaqUnCVpIStvMURA474W2AiJ2sgR39
